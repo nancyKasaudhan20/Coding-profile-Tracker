@@ -18,6 +18,10 @@ strengths. This project aims to solve that.
 
 ## Tech Stack
 - Frontend: React.js, Tailwind CSS
-- Backend: FastAPI, SQLAlchemy
+- Backend: FastAPI
 - Database: PostgreSQL
 - Cache / Queue (future): Redis
+
+# SWITCHING BETWEEN 2 SSH KEYS 
+# CORS
+# 

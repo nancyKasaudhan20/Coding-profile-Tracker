@@ -1,0 +1,53 @@
+# =========================
+# ENV FILES (SECRETS)
+# =========================
+.env
+.env.local
+.env.production
+
+# =========================
+# PYTHON (FastAPI)
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# NODE / REACT
+# =========================
+node_modules/
+npm-debug.log*
+
+# React build
+build/
+dist/
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# =========================
+# LOGS
+# =========================
+*.log
+
+# =========================
+# DATABASE DUMPS (optional)
+# =========================
+*.sql
